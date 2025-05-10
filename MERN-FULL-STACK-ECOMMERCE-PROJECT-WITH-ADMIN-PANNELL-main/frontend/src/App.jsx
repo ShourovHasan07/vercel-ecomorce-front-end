@@ -7,7 +7,7 @@ import Contact from './pages/contact';
 import Product from './pages/Product'
 import Card from './pages/Card'
 import Login from './pages/Login'
-import PlaceOrder from './pages/Placeorder'
+import PlaceOrder from './pages/PlaceOrder'
 import Orders from './pages/Orders'
 import Navbar from './Components/Navbar'
 import Footer from './Components/Footer'

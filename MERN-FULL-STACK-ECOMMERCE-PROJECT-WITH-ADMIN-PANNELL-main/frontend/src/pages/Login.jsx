@@ -4,7 +4,6 @@ import React, { useState,useEffect, useContext } from "react";
 import axios from 'axios';
 import { toast } from "react-toastify";
 import { ShopContext } from "../context/ShopContext";
-import { backendUrl } from './../../../adminpannel/src/App';
 
 
 
